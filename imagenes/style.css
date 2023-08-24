@@ -1,0 +1,147 @@
+
+
+
+
+header {
+  background: rgba(0, 26, 129, 0.7);
+  width: 100%;
+  position: static;
+  z-index: 100;
+}
+
+
+nav {
+  float: left;
+}
+
+nav ul {
+  list-style: none;
+  overflow: hidden; 
+}
+
+nav ul li {
+  float: left;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+nav ul li a {
+  display: block;
+  padding: 10px;
+  color: #e1e1e1;
+  text-decoration: none;
+}
+nav ul li:hover {
+  background: #eca023;
+}
+
+h1{
+  color: rgb(223, 135, 3);
+}
+h2{
+  color: rgb(0, 0, 0);
+}
+h3{
+  color: #000000;
+
+}
+h4{
+  color: #ffffff;
+}
+#respuesta{
+  color: rgb(0, 0, 0);
+}
+
+
+.faq .faq__pregunta{
+  color: rgb(235, 188, 21);
+
+}
+.card{
+  width: 400px;
+  height: 400px;
+  margin: 10px;
+  border: 1px;
+
+}
+.boton-div{
+  width:200px;
+  height: 200px;
+  padding:15px;
+  border:5px solid grey;
+  margin:10px;
+}
+
+.image{
+background-color: aliceblue;
+}
+
+
+.menu .image{
+background-color: rgb(246, 255, 127);
+}
+
+.menu__image{
+  background-color: aquamarine; 
+}
+.fondo__image{
+  background-color: rgb(9, 80, 234); 
+}
+
+.boton-div{
+  width:300px;
+  height: 200px;
+  padding:15px;
+  border:10px solid rgb(5, 20, 105);
+  margin:10px;
+}
+.boton-div__enviar{
+  font-size: 14px;
+  color: blue;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body{
+  background-image: url(https://blogs.unitec.mx/hubfs/287524/Imported_Blog_Media/retos-que-enfrentaras-si-estudias-una-ingenieria-en-sistemas-5-Dec-17-2022-06-19-10-6699-PM.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: top;
+}
+.pasatiempos{
+  background-image: url(https://previews.123rf.com/images/vladimirhodac/vladimirhodac1803/vladimirhodac180300014/97563743-equipo-de-pesca-en-el-fondo-de-escritorio-de-madera-ca%C3%B1a-de-pescar-red-etc-la-temporada-de-pesca.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: top;
+}
+.pasatiempos{
+  background-image: url(https://previews.123rf.com/images/vladimirhodac/vladimirhodac1803/vladimirhodac180300014/97563743-equipo-de-pesca-en-el-fondo-de-escritorio-de-madera-ca%C3%B1a-de-pescar-red-etc-la-temporada-de-pesca.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: top;
+}
+.deportes{
+  background-image: url(https://www.ceoe.es/sites/ceoe-corporativo/files/styles/image_1200/public/content/image/2021/03/25/104/diseno-sin-titulo-27.png?itok=GA8_RFcW);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: top;
+}
+.cursos{
+  background-image: url(https://storage.googleapis.com/grow-with-goog-publish-prod-media/images/Google_Career_Cert.width-1120.format-jpeg.jpegquality-97.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: top;
+}
+.musica{
+  background-image: url(https://imgmedia.libero.pe/652x359/libero/original/2023/06/08/64826ef0ac3d5f1806144ccf.webp);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: top;
+}
+.redes{
+  background-image: url(https://dinahosting.com/blog/upload/2021/03/rrrss-pymes.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: top;
+}
+
+
+
